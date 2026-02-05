@@ -51,7 +51,3 @@ The system is an AI-driven content intelligence platform that helps users create
 - Fast response time
 - Easy-to-use interface
 - Scalable model deployment via Hugging Face
-
-## 6. Constraints
-- Only one LLM model is used
-- Public or synthetic datasets are used for training
