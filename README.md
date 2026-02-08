@@ -104,7 +104,7 @@ All agents call the **same Hugging Face–hosted model** with different instruct
 ```
 📂 Project Structure (High-Level)
 
-kojo-ai/
+UNISON-ai/
 │── backend/
 │ ├── orchestrator.py
 │ ├── agents/
